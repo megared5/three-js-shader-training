@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+::selection {
+  color: white;
+  background-color: #ff033e;
+}
+html {
+  overflow: hidden;
+  font-family: montserrat;
+  background-color: #0f0f0f;
+}
